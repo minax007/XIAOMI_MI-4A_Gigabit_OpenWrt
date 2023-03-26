@@ -19,7 +19,7 @@ Added features | Package names
 __________________________________________________________________
 **Official OpenWrt snapshot of Mi-4A Gigabit Edition build without LuCI:**
 
-https://firmware-selector.openwrt.org/?version=SNAPSHOT&target=ramips%2Fmt7621&id=xiaomi_mi-router-4A-gigabit
+https://firmware-selector.openwrt.org/?version=SNAPSHOT&target=ramips%2Fmt7621&id=xiaomi_mi-router-4a-gigabit
 __________________________________________________________________
 **Official OpenWrt snapshot download directory for MT76x8 routers, which includes the imagebuilder used in this action script:**
 
