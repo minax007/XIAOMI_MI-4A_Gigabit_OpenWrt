@@ -5,7 +5,7 @@
 
 This GitHub action is to build fresh images of latest OpenWrt snapshot for the Mi-4A Gigabit Edition using imagebuilder.
 
-![grafik](https://user-images.githubusercontent.com/67478561/118938158-a44c8d00-b94e-11eb-8ebe-e4b31be24f60.png)
+![grafik](https://user-images.githubusercontent.com/67478561/227792070-021abc7e-b3e5-4f8b-966d-6e857bd579f8.png)
 
 Following packages are already installed, so that you do not need to install them via the command line afterwards: 
 
